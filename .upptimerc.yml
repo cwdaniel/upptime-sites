@@ -68,3 +68,4 @@ GitHub Actions will run and build the site.
 **7. Add DNS in Cloudflare:**
 ```
 status.cincinnaticodes.com  CNAME  →  YOUR_GITHUB_USERNAME.github.io  (DNS only, proxy OFF)
+
