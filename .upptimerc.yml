@@ -1,36 +1,70 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: YOUR_GITHUB_USERNAME
+repo: status
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  # GrowTales
+  - name: GrowTales
+    url: https://growtalesai.com
+  - name: GrowTales API
+    url: https://api.growtalesai.com
+
+  # Portfolio
+  - name: Cincinnati Codes
+    url: https://cincinnaticodes.com
+  - name: Full Stack Code Ninja
+    url: https://fullstackcodeninja.com
+
+  # Apps
+  - name: GoQRly
+    url: https://goqrly.com
+  - name: SnackVote
+    url: https://snackvote.com
+  - name: Vaulted Photos
+    url: https://vaultedphotos.com
+  - name: I Need Pokemon Cards
+    url: https://ineedpokemoncards.com
+  - name: Sanctuary Sight
+    url: https://sanctuarysight.com
+  - name: Tatted Monkeys
+    url: https://tattedmonkeys.com
+
+  # Tactical Warfare
+  - name: Tactical Warfare Protocol
+    url: https://tacticalwarfareprotocol.com
+  - name: TWP Mobile API
+    url: https://mobile-api.tacticalwarfareprotocol.com
+  - name: TWP Admin
+    url: https://secure-admin.tacticalwarfareprotocol.com
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+  cname: status.cincinnaticodes.com
+  logoUrl: https://cincinnaticodes.com/logo.png
+  name: Service Status
+  theme: dark
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "*/5 * * * *"
+  uptime: "*/5 * * * *"
+
+i18n:
+  activeIncidents: Active incidents
+  allSystemsOperational: All systems operational
+  incidentReport: Incident report for
+```
+
+**5. Commit the changes**
+
+Click "Commit changes"
+
+**6. Wait ~5 minutes**
+
+GitHub Actions will run and build the site.
+
+**7. Add DNS in Cloudflare:**
+```
+status.cincinnaticodes.com  CNAME  →  YOUR_GITHUB_USERNAME.github.io  (DNS only, proxy OFF)
