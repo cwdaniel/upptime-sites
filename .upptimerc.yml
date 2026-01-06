@@ -6,7 +6,7 @@ sites:
   - name: GrowTales
     url: https://growtalesai.com
   - name: GrowTales API
-    url: https://api.growtalesai.com
+    url: https://api.growtalesai.com/graphql
 
   # Portfolio
   - name: Cincinnati Codes
@@ -32,7 +32,7 @@ sites:
   - name: Tactical Warfare Protocol
     url: https://tacticalwarfareprotocol.com
   - name: TWP Mobile API
-    url: https://mobile-api.tacticalwarfareprotocol.com
+    url: https://mobile-api.tacticalwarfareprotocol.com/graphql
   - name: TWP Admin
     url: https://secure-admin.tacticalwarfareprotocol.com
 
