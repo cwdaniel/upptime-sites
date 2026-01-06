@@ -36,12 +36,6 @@ sites:
   - name: TWP Admin
     url: https://secure-admin.tacticalwarfareprotocol.com
 
-status-website:
-  cname: status.cincinnaticodes.com
-  logoUrl: https://cincinnaticodes.com/logo.png
-  name: Service Status
-  theme: dark
-
 workflowSchedule:
   graphs: "0 0 * * *"
   responseTime: "0 23 * * *"
