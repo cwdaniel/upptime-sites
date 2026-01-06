@@ -19,7 +19,7 @@
   },
   {
     "name": "GrowTales API",
-    "url": "https://api.growtalesai.com",
+    "url": "https://api.growtalesai.com/graphql",
     "icon": "https://icons.duckduckgo.com/ip3/api.growtalesai.com.ico",
     "slug": "grow-tales-api",
     "status": "down",
@@ -34,7 +34,7 @@
     "timeMonth": 232,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2026-01-06": 3
+      "2026-01-06": 16
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://fullstackcodeninja.com",
     "icon": "https://icons.duckduckgo.com/ip3/fullstackcodeninja.com.ico",
     "slug": "full-stack-code-ninja",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 286,
-    "timeDay": 286,
-    "timeWeek": 286,
-    "timeMonth": 286,
-    "timeYear": 286,
+    "time": 324,
+    "timeDay": 324,
+    "timeWeek": 324,
+    "timeMonth": 324,
+    "timeYear": 324,
     "dailyMinutesDown": {
-      "2026-01-06": 3
+      "2026-01-06": 16
     }
   },
   {
@@ -98,19 +98,19 @@
     "url": "https://snackvote.com",
     "icon": "https://icons.duckduckgo.com/ip3/snackvote.com.ico",
     "slug": "snack-vote",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 314,
-    "timeDay": 314,
-    "timeWeek": 314,
-    "timeMonth": 314,
-    "timeYear": 314,
+    "time": 366,
+    "timeDay": 366,
+    "timeWeek": 366,
+    "timeMonth": 366,
+    "timeYear": 366,
     "dailyMinutesDown": {
-      "2026-01-06": 3
+      "2026-01-06": 16
     }
   },
   {
@@ -130,7 +130,7 @@
     "timeMonth": 297,
     "timeYear": 297,
     "dailyMinutesDown": {
-      "2026-01-06": 3
+      "2026-01-06": 16
     }
   },
   {
@@ -150,7 +150,7 @@
     "timeMonth": 63,
     "timeYear": 63,
     "dailyMinutesDown": {
-      "2026-01-06": 3
+      "2026-01-06": 16
     }
   },
   {
@@ -158,18 +158,20 @@
     "url": "https://sanctuarysight.com",
     "icon": "https://icons.duckduckgo.com/ip3/sanctuarysight.com.ico",
     "slug": "sanctuary-sight",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 328,
-    "timeDay": 328,
-    "timeWeek": 328,
-    "timeMonth": 328,
-    "timeYear": 328,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "98.84%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "98.84%",
+    "uptimeMonth": "98.84%",
+    "uptimeYear": "98.84%",
+    "time": 421,
+    "timeDay": 421,
+    "timeWeek": 421,
+    "timeMonth": 421,
+    "timeYear": 421,
+    "dailyMinutesDown": {
+      "2026-01-06": 0
+    }
   },
   {
     "name": "Tatted Monkeys",
@@ -209,22 +211,22 @@
   },
   {
     "name": "TWP Mobile API",
-    "url": "https://mobile-api.tacticalwarfareprotocol.com",
+    "url": "https://mobile-api.tacticalwarfareprotocol.com/graphql",
     "icon": "https://icons.duckduckgo.com/ip3/mobile-api.tacticalwarfareprotocol.com.ico",
     "slug": "twp-mobile-api",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 247,
-    "timeDay": 247,
-    "timeWeek": 247,
-    "timeMonth": 247,
-    "timeYear": 247,
+    "status": "up",
+    "uptime": "12.77%",
+    "uptimeDay": "12.77%",
+    "uptimeWeek": "12.77%",
+    "uptimeMonth": "12.77%",
+    "uptimeYear": "12.77%",
+    "time": 257,
+    "timeDay": 257,
+    "timeWeek": 257,
+    "timeMonth": 257,
+    "timeYear": 257,
     "dailyMinutesDown": {
-      "2026-01-06": 3
+      "2026-01-06": 11
     }
   },
   {
