@@ -55,17 +55,3 @@ i18n:
   activeIncidents: Active incidents
   allSystemsOperational: All systems operational
   incidentReport: Incident report for
-```
-
-**5. Commit the changes**
-
-Click "Commit changes"
-
-**6. Wait ~5 minutes**
-
-GitHub Actions will run and build the site.
-
-**7. Add DNS in Cloudflare:**
-```
-status.cincinnaticodes.com  CNAME  →  YOUR_GITHUB_USERNAME.github.io  (DNS only, proxy OFF)
-
