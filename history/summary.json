@@ -34,7 +34,8 @@
     "timeMonth": 232,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2026-01-06": 25
+      "2026-01-07": 7,
+      "2026-01-06": 45
     }
   },
   {
@@ -61,11 +62,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/fullstackcodeninja.com.ico",
     "slug": "full-stack-code-ninja",
     "status": "up",
-    "uptime": "30.12%",
-    "uptimeDay": "30.12%",
-    "uptimeWeek": "30.12%",
-    "uptimeMonth": "30.12%",
-    "uptimeYear": "30.12%",
+    "uptime": "68.17%",
+    "uptimeDay": "68.17%",
+    "uptimeWeek": "68.17%",
+    "uptimeMonth": "68.17%",
+    "uptimeYear": "68.17%",
     "time": 324,
     "timeDay": 324,
     "timeWeek": 324,
@@ -99,11 +100,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/snackvote.com.ico",
     "slug": "snack-vote",
     "status": "up",
-    "uptime": "29.99%",
-    "uptimeDay": "29.99%",
-    "uptimeWeek": "29.99%",
-    "uptimeMonth": "29.99%",
-    "uptimeYear": "29.99%",
+    "uptime": "68.12%",
+    "uptimeDay": "68.12%",
+    "uptimeWeek": "68.12%",
+    "uptimeMonth": "68.12%",
+    "uptimeYear": "68.12%",
     "time": 366,
     "timeDay": 366,
     "timeWeek": 366,
@@ -130,7 +131,8 @@
     "timeMonth": 297,
     "timeYear": 297,
     "dailyMinutesDown": {
-      "2026-01-06": 25
+      "2026-01-07": 7,
+      "2026-01-06": 45
     }
   },
   {
@@ -150,7 +152,8 @@
     "timeMonth": 63,
     "timeYear": 63,
     "dailyMinutesDown": {
-      "2026-01-06": 25
+      "2026-01-07": 7,
+      "2026-01-06": 45
     }
   },
   {
@@ -159,11 +162,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sanctuarysight.com.ico",
     "slug": "sanctuary-sight",
     "status": "up",
-    "uptime": "77.62%",
-    "uptimeDay": "77.62%",
-    "uptimeWeek": "77.62%",
-    "uptimeMonth": "77.62%",
-    "uptimeYear": "77.62%",
+    "uptime": "89.81%",
+    "uptimeDay": "89.81%",
+    "uptimeWeek": "89.81%",
+    "uptimeMonth": "89.81%",
+    "uptimeYear": "89.81%",
     "time": 414,
     "timeDay": 414,
     "timeWeek": 414,
@@ -215,11 +218,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mobile-api.tacticalwarfareprotocol.com.ico",
     "slug": "twp-mobile-api",
     "status": "up",
-    "uptime": "49.36%",
-    "uptimeDay": "49.36%",
-    "uptimeWeek": "49.36%",
-    "uptimeMonth": "49.36%",
-    "uptimeYear": "49.36%",
+    "uptime": "76.97%",
+    "uptimeDay": "76.97%",
+    "uptimeWeek": "76.97%",
+    "uptimeMonth": "76.97%",
+    "uptimeYear": "76.97%",
     "time": 257,
     "timeDay": 257,
     "timeWeek": 257,
