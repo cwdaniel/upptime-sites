@@ -1,7 +1,7 @@
-url: https://api.growtalesai.com
+url: https://api.growtalesai.com/graphql
 status: down
-code: 404
-responseTime: 232
-lastUpdated: 2026-01-06T23:17:43.594Z
+code: 400
+responseTime: 178
+lastUpdated: 2026-01-07T23:08:26.262Z
 startTime: 2026-01-06T23:17:43.229Z
 generator: Upptime <https://github.com/upptime/upptime>
